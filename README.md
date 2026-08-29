@@ -30,6 +30,8 @@
 
 # 👨‍💻 About Me
 
+<div align="center">
+
 <table>
 <tr>
 
@@ -70,6 +72,8 @@ I'm an **Aspiring Java Developer** focused on building strong programming fundam
 </tr>
 </table>
 
+</div>
+
 ---
 
 # 🛠️ Tech Stack
@@ -102,7 +106,7 @@ I'm an **Aspiring Java Developer** focused on building strong programming fundam
 <td width="50%" align="center">
 
 <img
-src="https://github-stats-extended.vercel.app/api?username=dilkhushkumardev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=dilkhushkumardev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
 alt="GitHub Statistics"
 width="100%"
 />
@@ -112,7 +116,7 @@ width="100%"
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-streak-stats-eight.vercel.app/?user=dilkhushkumardev&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=dilkhushkumardev&theme=tokyonight&hide_border=true"
 alt="GitHub Contribution Streak"
 width="100%"
 />
@@ -126,13 +130,13 @@ width="100%"
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Contributions
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=tokyo-night&hide_border=true&area=true&height=180"
-alt="Contribution Activity Graph"
+src="https://raw.githubusercontent.com/dilkhushkumardev/dilkhushkumardev/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
 width="100%"
 />
 
@@ -208,8 +212,6 @@ width="100%"
 
 ---
 
----
-
 # 💻 Coding & Problem Solving
 
 <div align="center">
@@ -235,11 +237,11 @@ width="100%"
 
 <td width="50%" align="center">
 
-### 🐙 GitHub Contributions
+### 🐙 GitHub Activity
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
-alt="GitHub Contribution Graph"
+src="https://github-readme-stats.vercel.app/api?username=dilkhushkumardev&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true"
+alt="GitHub Activity"
 width="100%"
 />
 
@@ -290,8 +292,6 @@ width="100%"
 
 ---
 
----
-
 # 🚀 Featured Builds
 
 <div align="center">
@@ -299,80 +299,67 @@ width="100%"
 <table width="100%">
 <tr>
 
-<!-- ================= HOSPITAL MANAGEMENT ================= -->
-
 <td width="50%" valign="top" align="center">
 
 <h2>🏥 Hospital Management System</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Backend-0077FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 
-<br>
+<img src="https://img.shields.io/badge/Java-Backend-0077FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-Database-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
 
 <p>
 A practical <b>Java-based hospital management project</b>
 focused on backend programming and database connectivity.
 </p>
 
-<br>
-
 <p><b>🛠️ Technologies</b></p>
 
 <p>
-  <code>Java</code>
-  <code>MySQL</code>
-  <code>JDBC</code>
+<code>Java</code>
+<code>MySQL</code>
+<code>JDBC</code>
 </p>
 
-<br>
-
 <a href="https://github.com/Dilkhushkumardev/Hospital-management-system">
-  <img src="https://img.shields.io/badge/💻%20VIEW%20SOURCE%20CODE-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20VIEW%20SOURCE%20CODE-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-
-
-<!-- ================= COLLEGE WEBSITE ================= -->
 
 <td width="50%" valign="top" align="center">
 
 <h2>🎓 College Website</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
-<br>
+<img src="https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
 
 <p>
 A complete <b>college website</b> designed to present
 college information, departments, gallery and other web content.
 </p>
 
-<br>
-
 <p><b>🛠️ Technologies</b></p>
 
 <p>
-  <code>HTML</code>
-  <code>CSS</code>
-  <code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
 </p>
 
-<br>
-
 <a href="https://prabhukailashpolytechnic.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dilkhushkumardev/college-website">
-  <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
