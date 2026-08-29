@@ -130,15 +130,8 @@ width="100%"
 
 <div align="center">
 
-<!--
-  FIXED: previously pointed to the shared public instance
-  (github-readme-activity-graph.vercel.app), which is returning
-  402 Payment Required because it's over its shared usage quota.
-  Replace YOUR-INSTANCE below with your own self-hosted domain
-  (see Fix 1 / Fix 2 instructions) once deployed.
--->
 <img
-src="https://YOUR-INSTANCE.vercel.app/graph?username=dilkhushkumardev&theme=tokyo-night&hide_border=true&area=true&height=180"
+src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=tokyo-night&hide_border=true&area=true&height=180"
 alt="Contribution Activity Graph"
 width="100%"
 />
@@ -244,15 +237,8 @@ width="100%"
 
 ### 🐙 GitHub Contributions
 
-<!--
-  FIXED: previously pointed to the shared public instance
-  (github-readme-activity-graph.vercel.app), which is returning
-  402 Payment Required because it's over its shared usage quota.
-  Replace YOUR-INSTANCE below with your own self-hosted domain
-  (see Fix 1 / Fix 2 instructions) once deployed.
--->
 <img
-src="https://YOUR-INSTANCE.vercel.app/graph?username=dilkhushkumardev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
 alt="GitHub Contribution Graph"
 width="100%"
 />
