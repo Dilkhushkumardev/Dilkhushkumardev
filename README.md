@@ -126,13 +126,13 @@ width="100%"
 
 ---
 
+
 # 📈 Contribution Activity
 
 <div align="center">
 
-<!-- Fixed URL to a more stable alternative service -->
 <img
-src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Dilkhushkumardev&theme=tokyo-night&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Dilkhushkumardev&theme=tokyo-night&hide_border=true&area=true&height=200"
 alt="Contribution Activity Graph"
 width="100%"
 />
@@ -209,6 +209,8 @@ width="100%"
 
 ---
 
+---
+
 # 💻 Coding & Problem Solving
 
 <div align="center">
@@ -236,9 +238,8 @@ width="100%"
 
 ### 🐙 GitHub Contributions
 
-<!-- Fixed URL to a more stable alternative service -->
 <img
-src="https://fabianocouto-activity-graph.vercel.app/graph/?username=dilkhushkumardev&theme=github-compact&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
 alt="GitHub Contribution Graph"
 width="100%"
 />
@@ -287,6 +288,8 @@ width="100%"
 </a>
 
 </div>
+
+---
 
 ---
 
