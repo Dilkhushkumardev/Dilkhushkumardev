@@ -126,12 +126,13 @@ width="100%"
 
 ---
 
+
 # 📈 Contribution Activity
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=tokyo-night&hide_border=true&area=true&height=180"
+src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=tokyo-night&hide_border=true&area=true&height=200"
 alt="Contribution Activity Graph"
 width="100%"
 />
